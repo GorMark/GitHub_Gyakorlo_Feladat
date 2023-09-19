@@ -10,3 +10,9 @@ h2{
 li{
     font-size: 21px;
 }
+img{
+    float: left;
+}
+body{
+    background-color:aqua;
+}
