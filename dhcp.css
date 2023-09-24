@@ -8,3 +8,6 @@ h2{
     outline-color: red;
     outline-width: medium;
 }
+p{
+    text-align: justify;
+}
