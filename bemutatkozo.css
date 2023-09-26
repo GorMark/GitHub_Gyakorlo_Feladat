@@ -11,10 +11,12 @@ img{
     margin-left: auto;
     margin-right: auto;
 }
-div{
-    padding-top: 150px;
-    text-align: right;
+a{
+    float: right;
 }
 body{
     background-color:mediumspringgreen;
+}
+.kozepre{
+    text-align: center;
 }
