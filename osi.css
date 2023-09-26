@@ -1,6 +1,7 @@
 p{
     text-align: justify;
     padding-right: 500px;
+    font-size: larger;
 }
 img{
     width: 700px;
@@ -11,4 +12,7 @@ img{
 }
 a{
     float: right;
+}
+body{
+    background-image: url(wood.jpg);
 }
